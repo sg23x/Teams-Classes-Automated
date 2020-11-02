@@ -99,7 +99,7 @@ def initiate_class():
                 #       datetime.datetime.now().strftime("%m/%d/%Y, %H:%M:%S"))
                 # break
 
-    login('soumya.189301195@muj.manipal.edu', 'Sal44672')
+    login('email@gmail.com', 'password')
     run_class('DAA')
 
 
